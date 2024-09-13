@@ -74,14 +74,14 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.8.2</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
     <!-- TEST -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.8.2</version>
+      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
 
@@ -98,7 +98,7 @@
       <dependency>
           <groupId>org.springframework</groupId>
           <artifactId>spring-webmvc</artifactId>
-          <version>3.1.0.RELEASE</version>
+          <version>6.1.13</version>
       </dependency>
       <dependency>
           <groupId>javax.servlet</groupId>
